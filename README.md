@@ -3,4 +3,4 @@ Learn React Hook Form
 
 ### Dependencies
   - react
-  -react-hook-form
+  - react-hook-form
